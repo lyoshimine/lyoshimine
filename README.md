@@ -1,6 +1,6 @@
 ### Olá, eu sou o Yuji! 👋
 
-Essa é minha conta profissional, caso queira me seguir na minha conta pessoal é: [@DevLucasYuji](https://github.com/DevLucasYuji)
+Essa é minha conta profissional do enjoei, caso queira me seguir na minha conta pessoal é: [@DevLucasYuji](https://github.com/DevLucasYuji)
 
 ## Redes sociais
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lucasyujideveloper)
